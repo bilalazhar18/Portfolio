@@ -2,8 +2,6 @@
 
 A modern React portfolio website for presenting professional experience, technical skills, selected projects, education, resume, and contact links.
 
-<img src="./src/assets/bilal-azhar-hero.png" alt="Portfolio hero preview" width="420" />
-
 ## What Is Built
 
 - Responsive portfolio homepage
