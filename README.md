@@ -2,7 +2,7 @@
 
 A modern React portfolio website for presenting professional experience, technical skills, selected projects, education, resume, and contact links.
 
-![Portfolio hero preview](src/assets/bilal-azhar-hero.png)
+<img src="./src/assets/bilal-azhar-hero.png" alt="Portfolio hero preview" width="420" />
 
 ## What Is Built
 
@@ -28,23 +28,23 @@ A modern React portfolio website for presenting professional experience, technic
 
 ### Ask Raghad AI
 
-![Ask Raghad AI](src/assets/ask-raghad-ai.png)
+<img src="./src/assets/ask-raghad-ai.png" alt="Ask Raghad AI" width="420" />
 
 ### Wise Wheels
 
-![Wise Wheels](src/assets/wise-wheels.png)
+<img src="./src/assets/wise-wheels.png" alt="Wise Wheels" width="420" />
 
 ### EasyBMV
 
-![EasyBMV](src/assets/easy-bmv-how-it-works.png)
+<img src="./src/assets/easy-bmv-how-it-works.png" alt="EasyBMV" width="420" />
 
 ### E-commerce
 
-![E-commerce project](src/assets/eswar-spices3.jpg)
+<img src="./src/assets/eswar-spices3.jpg" alt="E-commerce project" width="420" />
 
 ### Portfolio Website
 
-![Portfolio website](src/assets/websiteImg.png)
+<img src="./src/assets/websiteImg.png" alt="Portfolio website" width="420" />
 
 ## Getting Started
 
@@ -87,37 +87,6 @@ npm run build
 ```
 
 The optimized output will be generated in the `build` folder.
-
-## Deploy On Vercel
-
-1. Push this project to GitHub.
-2. Import the GitHub repository into Vercel.
-3. Use these settings:
-
-```text
-Framework Preset: Create React App
-Install Command: npm install
-Build Command: npm run build
-Output Directory: build
-```
-
-Vercel will install dependencies automatically, so do not upload `node_modules`.
-
-## Git Ignore Notes
-
-The project already ignores local-only files and folders such as:
-
-```gitignore
-/node_modules
-/build
-.env
-.vercel/
-.idea/
-.agent/
-.slingshot/
-.edge-pdf-profile/
-npm-start*.log
-```
 
 ## Available Scripts
 

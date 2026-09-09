@@ -1,0 +1,7 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="160" rx="14" fill="#030407"/>
+  <path d="M58 44C45.4 54.4 39.1 68.6 39.1 86.6C39.1 103.2 44.8 116.7 56.3 127.1" stroke="#EAF7FF" stroke-width="9" stroke-linecap="round"/>
+  <path d="M95.6 33C82.4 45.2 73.7 60.7 69.4 79.5C65.5 96.9 67.5 112.7 75.4 127" stroke="#3FE6D0" stroke-width="9" stroke-linecap="round"/>
+  <path d="M112.5 38.8C105.2 51.8 99.8 66.1 96.3 81.6C92.6 98 91.7 112.5 93.6 125.1" stroke="#5A7CFF" stroke-width="7" stroke-linecap="round"/>
+  <text x="80" y="139" text-anchor="middle" fill="#EAF7FF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">TECHWORK</text>
+</svg>
