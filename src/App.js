@@ -423,7 +423,7 @@ function App() {
               <span className="highlight-cyan">scalable digital products.</span>
             </h1>
             <p className="lead">
-              Senior Software Engineer specializing in Python,FastAPI, Django, Laravel, REST & GraphQL APIs,and production-ready AI solutions.
+              Senior Software Engineer specializing in Python, FastAPI, Django, Laravel, and REST & GraphQL APIs. Building scalable backend systems, reliable integrations, and production-ready AI solutions.
             </p>
             <div className="cta-row">
               <a className="btn solid" href="#projects">
@@ -493,15 +493,15 @@ function App() {
               </article>
               <article>
                 <h3>20+</h3>
-                <p>Projects</p>
+                <p>Projects Delivered</p>
               </article>
               <article>
-                <h3>1000+</h3>
-                <p>Security Fixes</p>
+                <h3>10+</h3>
+                <p>Technologies</p>
               </article>
               <article>
-                <h3>20</h3>
-                <p>Core Production Apps</p>
+                <h3>20+</h3>
+                <p>Production Applications</p>
               </article>
             </div>
           </motion.div>
@@ -518,7 +518,10 @@ function App() {
         >
           <h2>About</h2>
           <p className="section-copy">
-            I design and build scalable business applications from backend domain logic to polished user interfaces. My core strength is backend engineering with Python, FastAPI, Django, and Laravel, complemented by practical Next.js and Vue.js implementation. I work across scalable backend systems, REST and GraphQL APIs, asynchronous workflows, and AI integrations so products ship faster and stay maintainable. I follow a production-first mindset: secure by default, performance-focused, and optimized for real-world scale.
+            I design and build scalable business applications from backend domain logic to polished user interfaces. My core strength is backend engineering with Python, FastAPI, Django, and Laravel, complemented by practical Next.js and Vue.js implementation.
+          </p>
+          <p className="section-copy">
+            I work across scalable backend systems, REST and GraphQL APIs, asynchronous workflows, and AI integrations so products ship faster and stay maintainable. I follow a production-first mindset: secure by default, performance-focused, and optimized for real-world scale.
           </p>
         </motion.section>
 
