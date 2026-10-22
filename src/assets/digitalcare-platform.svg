@@ -14,9 +14,9 @@
   <text x="80" y="125" fill="#64748B" font-family="system-ui, -apple-system, sans-serif" font-size="14">License No: LIC-001</text>
   <text x="80" y="145" fill="#64748B" font-family="system-ui, -apple-system, sans-serif" font-size="14">Phone: 03001234567</text>
   
-  <!-- SparkNext Hospital Brand -->
+  <!-- Hospital Brand -->
   <path d="M78 185 L 83 172 L 88 185 L 101 190 L 88 195 L 83 208 L 78 195 L 65 190 Z" fill="#06B6D4" />
-  <text x="110" y="196" fill="#06B6D4" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700">SparkNext Hospital</text>
+  <text x="110" y="196" fill="#06B6D4" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700">Mayo Clinic</text>
 
   <!-- Patient Info Block -->
   <rect x="620" y="60" width="240" height="125" rx="12" fill="#F8FAFC" stroke="#F1F5F9" stroke-width="1"/>

@@ -6,6 +6,8 @@ import ambifastImg from "./assets/ambifast.svg";
 import websiteImg from "./assets/websiteImg.png";
 import digitalCarePlatform from "./assets/digitalcare-platform.svg";
 import askRaghadAi from "./assets/ask-raghad-ai.png";
+import aiResumeParser from "./assets/ai resume parser.png";
+import zenawalkOrder from "./assets/zenawalk_order.png";
 import wiseWheels from "./assets/wise-wheels.png";
 import easyBmvHowItWorks from "./assets/easy-bmv-how-it-works.png";
 import ecommerceEswarSpices from "./assets/eswar-spices3.jpg";
@@ -301,6 +303,22 @@ const projects = [
       "AI-powered recommendation platform for product, travel, hotel, and shopping recommendations.",
     image: askRaghadAi,
     status: "AI Recommendation Platform",
+  },
+  {
+    title: "AI Resume Parser",
+    tech: "Python, FastAPI, Gemini, JWT",
+    summary:
+      "AI-powered resume parsing API that extracts candidate details and skills into structured JSON, with JWT authentication and authorization.",
+    image: aiResumeParser,
+    status: "AI Resume Parsing API",
+  },
+  {
+    title: "Zenawalk",
+    tech: "Python, Flask, Stripe, Multilingual Support, Queue System, CI/CD Pipeline",
+    summary:
+      "Backend for an audio walking tour app with multilingual support, Stripe order management, background queues, and a CI/CD pipeline.",
+    image: zenawalkOrder,
+    status: "Audio Walking Tour App",
   },
   {
     title: "Wise Wheels",
